@@ -1,4 +1,4 @@
-# dart_packages_introduction
+# UI向けのDartPackages活用入門（dart_packages_introduction）
 ### Flutter大学_共同勉強会でライブコーディングをしました
 
 - [発表動画](https://vimeo.com/755909661/4a235fc030)
